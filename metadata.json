@@ -1,0 +1,6 @@
+{
+  "name": "NEON_OROBOROS_SYS",
+  "description": "Glitch-art combined snake subroutine and neural audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
